@@ -1,7 +1,6 @@
 # SkillMatch-Resume-Matcher-and-Skill-Recommender
 Infosys Springboard Virtual Internship 6.0 Project
 # 🧠 PathFinder — Smart Resume & Job Match Analyzer  
-![banner](https://img.shields.io/badge/AI%20Powered-Yes-6A5ACD?style=for-the-badge)  
 ![python](https://img.shields.io/badge/Built%20With-Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
