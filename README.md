@@ -1,6 +1,4 @@
-# SkillMatch-Resume-Matcher-and-Skill-Recommender
-Infosys Springboard Virtual Internship 6.0 Project
-# 🧠 PathFinder — Smart Resume & Job Match Analyzer  
+# 🧠 PathFinder — Resume Matcher & Skill Recommender
 ![python](https://img.shields.io/badge/Built%20With-Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
@@ -17,7 +15,7 @@ PathFinder is an web app built with **Streamlit** that analyzes your resume, ext
 
 ### 👤 **Personalized User Dashboard**
 - Profile icon + username  
-- Per-user history (like ChatGPT)  
+- Per-user history 
 - Clear history option  
 - Secure logout  
 
